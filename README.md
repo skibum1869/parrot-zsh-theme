@@ -12,3 +12,7 @@ Then open the terminaland write "nano .zshrc" and set ZSH_THEME to the ZSH_THEME
 ### Tmux Configuration
 ```
 copy .tmux.conf to your user folder
+```
+### Screenshoot
+
+<img src="https://user-images.githubusercontent.com/52185202/68477200-65208480-025f-11ea-9914-033dfb2807cd.png" alt="GParrot SZH">
